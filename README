@@ -1,0 +1,5 @@
+Used third-party scripts:
+ 
+1. https://github.com/thnikk/fuzzel-scripts
+
+put all configs from .configs to $XDG_CONFIG_HOME folder

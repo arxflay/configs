@@ -1,3 +1,0 @@
-nmcli connection add type ethernet con-name FEDUPC ifname enp34s0
-nmcli con up FEDUPC
-sudo service network-manager restart
